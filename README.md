@@ -34,6 +34,11 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
     <td>Mondragón Paulina</td>
     <td>Data Analyst</td>
     <td>https://github.com/paumondragon</td>
+  </tr
+    <tr>
+    <td>Veloz Luis</td>
+    <td>Technical Leader</td>
+    <td></td>
   </tr>
 </table>
 
@@ -46,8 +51,8 @@ sus librerias(Pandas, Numpy, SciPy, etc) y la compatibilidad con distintos entor
   <h4> # POWER BI</h4>
   <p>Una característica es que permite cruzar y analizar bases de datos heterogéneas y presentar toda la información en un único cuadro de mando. Otra característica muy importante es que puede cargar ficheros de texto como Excel, csv y txtx, entre otros, ya que son los formatos en los que los programas suelen se exportan los datos.</p>
   
-  <h4> # JUPYTER</h4>
-  <p>Es una aplicación web de código abierto que proporciona un entorno donde puede registrar código, ejecutarlo, ver resultados, visualizar datos y ver resultados de salida.</p>
+  <h4> # GOOGLE COLAB </h4>
+  <p> Es un entorno de desarrollo en línea que permite crear y ejecutar código Python en la nube. Es una herramienta gratuita y fácil de usar que no requiere instalación de software.</p>
 
   <h4> # KAGGLE</h4>
   <p>Es una plataforma web que reúne la comunidad Data Science más grande del mundo. Permite acceder de manera gratuita a GPUs, a una gran cantidad de datos y códigos publicados por la comunidad. En nuestro caso seleccionamos un data set especifico del área de RRHH</p>
