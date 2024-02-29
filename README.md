@@ -43,14 +43,14 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
 </table>
 
 <h2>Resumen </h2>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_yAwBTLqcXo/1.jpg)](https://www.youtube.com/watch?v=_yAwBTLqcXo)
+Mirá un extracto de nuestro trabajo:  https://www.youtube.com/watch?v=_yAwBTLqcXo
 
   
 <h2> Recursos</h2>
   <h4> # PHYTON</h4>
   <p>Dado los beneficios que brinda este lenguaje es muy utilizado en el área del análisis de datos. Los más destacados son su simpleza en el código, la velocidad para procesar datos,
 sus librerias(Pandas, Numpy, SciPy, etc) y la compatibilidad con distintos entornos. </p>
-<p>En este caso de análisis fue utilizado para el preprocesamiento de los datos conjuntamente con Pandas.</p>
+
 
   <h4> # POWER BI</h4>
   <p>Una característica es que permite cruzar y analizar bases de datos heterogéneas y presentar toda la información en un único cuadro de mando. Otra característica muy importante es que puede cargar ficheros de texto como Excel, csv y txtx, entre otros, ya que son los formatos en los que los programas suelen se exportan los datos.</p>
@@ -60,3 +60,21 @@ sus librerias(Pandas, Numpy, SciPy, etc) y la compatibilidad con distintos entor
 
   <h4> # KAGGLE</h4>
   <p>Es una plataforma web que reúne la comunidad Data Science más grande del mundo. Permite acceder de manera gratuita a GPUs, a una gran cantidad de datos y códigos publicados por la comunidad. En nuestro caso seleccionamos un data set especifico del área de RRHH</p>
+
+  <h4> # LIBRERIAS </h4>
+        <ul>
+          <li>PANDAS
+            <p>Permite, de forma fácil e intuitiva realizar operaciones capaces de gestionar y manipular cualquier tipo de información sin importar el formato, y sobre todo de una forma                 rápida y eficaz. 
+            </p>
+          </li>
+          <li>MATPLOTLIB
+            <p>Es una librería de Python especializada en generar una amplia variedad de visualizaciones de datos de alta calidad, incluyendo gráficos de líneas, gráficos de dispersión, histogramas, gráficos de barras, gráficos de contorno, diagramas de caja, gráficos de torta y muchos más..
+            </p>
+          </li>
+          <li>SEABORN
+            <p>Permite crear gráficos estadísticos en Python.Se pueden capturar marcos de datos enteros, y las funciones internas de mapeo semántico y agregación estadística permiten convertir los datos en visualizaciones gráficas. </p>
+          </li>
+          <li>XGBOOST
+            <p>Es un algoritmo paralelizable que permite utilizar multiples núcleos a la vez. Además se ha convertido en una opción popular para una variedad de problemas de aprendizaje automático, incluyendo clasificación, regresión, ranking y tareas de recomendación. </p>
+          </li>
+        </ul>
