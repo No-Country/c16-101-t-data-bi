@@ -1,9 +1,10 @@
 
-# EMPLOYEE ATTRITION ANALYSIS
+# EMPLOYEE ATTRITION ANALYSIS - **_TechSolution Inc._** 
 
 En un mercado altamente competitivo como el de la tecnología, la retención del talento es crucial para el éxito empresarial. Con el objetivo de abordar la alta tasa de desgaste laboral en **_TechSolution Inc._**, este proyecto se enfoca en desarrollar un modelo de Machine Learning para identificar los factores clave que influyen en el desgaste laboral. Estas insights ayudarán a la gerencia de RRHH a implementar estrategias efectivas de retención y mejorar la productividad y estabilidad de la fuerza laboral.
 
 <h2> Integrantes</h2>
+
 <table align="center">
 <tr>
 <th>Nombre</th>
