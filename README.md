@@ -42,6 +42,10 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
   </tr>
 </table>
 
+<h2>Resumen </h2>
+[![](https://markdown-videos.deta.dev/youtube/_yAwBTLqcXo)](https://youtu.be/_yAwBTLqcXo)
+
+  
 <h2> Recursos</h2>
   <h4> # PHYTON</h4>
   <p>Dado los beneficios que brinda este lenguaje es muy utilizado en el área del análisis de datos. Los más destacados son su simpleza en el código, la velocidad para procesar datos,
