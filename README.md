@@ -43,7 +43,7 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
 </table>
 
 <h2>Resumen </h2>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_yAwBTLqcXo/0.jpg)](https://www.youtube.com/watch?v=_yAwBTLqcXo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_yAwBTLqcXo/1.jpg)](https://www.youtube.com/watch?v=_yAwBTLqcXo)
 
   
 <h2> Recursos</h2>
