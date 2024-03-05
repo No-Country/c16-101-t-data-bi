@@ -12,6 +12,11 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
 <th>Github</th>
 </tr>
   <tr>
+    <td>Alberto Fraga Carlos </td>
+    <td>Machine Learning Developer</td>
+    <td>https://github.com/Calberto76</td>
+  </tr>
+  <tr>
     <td>Carrano Paula</td>
     <td>Analyst BI</td>
     <td>https://github.com/paula-carrano</td>
@@ -20,11 +25,6 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
     <td>Chávez Cáceres Samir Diego </td>
     <td>Data Scientist</td>
     <td>https://github.com/SamirDiegoChavezCaceres</td>
-  </tr>
-  <tr>
-    <td>Fraga Carlos Alberto</td>
-    <td>Machine Learning Developer</td>
-    <td>https://github.com/Calberto76</td>
   </tr>
   <tr>
     <td>Lucero Angel</td>
