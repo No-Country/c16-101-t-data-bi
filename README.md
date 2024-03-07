@@ -54,11 +54,12 @@ En un mercado altamente competitivo como el de la tecnología, la retención del
   <img src="https://github.com/No-Country/c16-101-t-data-bi/assets/65313769/8f754005-e6e4-4e9b-9866-90925b77898b" width="500px"</img>
 </div>
 <div align="center">
-  <img src="https://github.com/No-Country/c16-101-t-data-bi/assets/65313769/318077b5-1e65-496d-b326-02b93c48af1b" width="500px" height="271"</img>
-  <img src="https://github.com/No-Country/c16-101-t-data-bi/assets/65313769/6337d5dd-a0f7-4e82-98db-57b202f680e3" width="500px" height="271"</img>
+  <img src="https://github.com/No-Country/c16-101-t-data-bi/assets/65313769/815334aa-5465-437a-8bf7-f79e9a43f7f5" width="500px" height="271"</img>
+  <img src="https://github.com/No-Country/c16-101-t-data-bi/assets/65313769/340e0663-53fc-4554-a2cc-7288b8973ce3" width="500px" height="271"</img>
 </div>
 
 <h2> Recursos</h2>
+
   <h4> # PHYTON <img src="https://github.com/No-Country/c16-101-t-data-bi/assets/65313769/7f2b93a2-3f5b-447e-9dad-2a73c81910b6" width="20px"</img></h4>
   <p>Dado los beneficios que brinda este lenguaje es muy utilizado en el área del análisis de datos. Los más destacados son su simpleza en el código, la velocidad para procesar datos,
 sus librerias(Pandas, Numpy, SciPy, etc) y la compatibilidad con distintos entornos. </p>
